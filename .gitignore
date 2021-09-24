@@ -1,6 +1,6 @@
 .DS_Store
 .sqlite
-
+.vs
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudio,windows,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudio,windows,python
 
