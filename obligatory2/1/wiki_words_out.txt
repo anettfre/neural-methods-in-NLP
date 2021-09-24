@@ -1,0 +1,49 @@
+Word: dependency
+Associate		Cosine
+dependence_NOUN		0.651
+Dependencies_NOUN	0.518
+Dependency_NOUN		0.500
+dependent_ADJ		0.477
+interdependency_NOUN	0.463
+
+Word: parser
+Associate		Cosine
+parsing_NOUN		0.756
+parse_VERB		0.714
+parsing_VERB		0.677
+parse_NOUN		0.673
+JavaScript_PROPN		0.663
+
+Word: classify
+Associate		Cosine
+classified_VERB		0.764
+classify_ADJ		0.748
+categorize_VERB		0.720
+categorise_VERB		0.688
+classified_ADJ		0.676
+
+Word: sparse
+Associate		Cosine
+sparse_NOUN		0.823
+sparse_VERB		0.789
+dense_ADJ		0.655
+patchy_ADJ		0.616
+sparser_NOUN		0.597
+
+Word: indicator
+Associate		Cosine
+indicators_NOUN		0.664
+predictor_NOUN		0.614
+correlation_NOUN		0.569
+determinant_NOUN		0.550
+quantify_VERB		0.542
+
+Word: feature
+Associate		Cosine
+feature_ADJ		0.704
+featur_NOUN		0.603
+feature_VERB		0.582
+featuring_NOUN		0.517
+feature_PROPN		0.507
+
+

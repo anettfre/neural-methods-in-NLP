@@ -1,0 +1,46 @@
+Word: dependency
+Associate		Cosine
+dependence_NOUN		0.788
+reliance_NOUN		0.591
+addiction_NOUN		0.578
+dependance_NOUN		0.575
+overdependence_NOUN	0.514
+
+Word: parser
+parser_NOUN is not present in the model
+
+Word: classify
+Associate		Cosine
+classified_ADJ		0.653
+unclassified_ADJ		0.577
+class_VERB		0.527
+top-secret_ADJ		0.500
+confidential_ADJ		0.493
+
+Word: sparse
+Associate		Cosine
+patchy_ADJ		0.531
+spotty_ADJ		0.512
+sparser_ADJ		0.510
+muted_ADJ		0.494
+sparsely_ADV		0.481
+
+Word: indicator
+Associate		Cosine
+gauge_NOUN		0.684
+barometer_NOUN		0.668
+predictor_NOUN		0.541
+index_NOUN		0.536
+Westpac-Melbourne::Institute_PROPN 0.518
+
+Word: feature
+Associate		Cosine
+313.222.2260_NUM		0.515
+313.222.2480_NUM		0.506
+444-8107_NOUN		0.501
+cir-digital-diary_NOUN	0.499
+newsfeature-budget-lat-wp_NOUN	 0.499
+
+
+
+

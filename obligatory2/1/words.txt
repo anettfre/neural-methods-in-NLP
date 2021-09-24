@@ -1,0 +1,6 @@
+dependency_NOUN
+parser_NOUN
+classify_VERB
+sparse_ADJ
+indicator_NOUN
+feature_NOUN
